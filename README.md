@@ -13,7 +13,7 @@ This application is a work-in-progress and will be constantly updated at varying
 - Implement a "restart" feature that allows users to play multiple games without having to restart the program.
 
 # Screenshots
-Screenshots of the game will be added shortly.
+![](Game-Capture.png)
 
 # Notes
 When running the game using a system running macOS, the final moves that cause an end state (win/lose/tie) will not be drawn. This is not the case with systems running Windows 10, and I am currently unsure of the issue.
